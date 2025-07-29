@@ -7,7 +7,7 @@ codegenstrat_v1.py results:
 
 
 codegenstrat_v2.py results:
-<img width="953" height="951" alt="image" src="https://raw.githubusercontent.com/iam3/code-generation-strategies/refs/heads/main/v1_results.png" />
+<img width="953" height="951" alt="image" src="https://raw.githubusercontent.com/iam3/code-generation-strategies/refs/heads/main/v2_results.png" />
 
 
 code_gen_strat_v3.py <--- Work in progress

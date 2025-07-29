@@ -1,5 +1,6 @@
-Main Ideal Workflow:
-<img width="789" height="517" alt="image" src="https://raw.githubusercontent.com/iam3/code-generation-strategies/refs/heads/main/v1_results.png" />
+Main ideal final workflow:
+
+<img width="789" height="517" alt="image" src="https://raw.githubusercontent.com/iam3/code-generation-strategies/refs/heads/main/goal.PNG" />
 
 
 

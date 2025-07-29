@@ -1,3 +1,8 @@
+Main Ideal Workflow:
+<img width="789" height="517" alt="image" src="https://raw.githubusercontent.com/iam3/code-generation-strategies/refs/heads/main/v1_results.png" />
+
+
+
 Design pattern prompts generation results:
 <img width="1046" height="509" alt="image" src="https://github.com/user-attachments/assets/41c6b732-66b0-4adc-a8bd-b7b9b9c292d6" />
 

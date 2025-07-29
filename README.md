@@ -3,11 +3,11 @@ Design pattern prompts generation results:
 
 
 codegenstrat_v1.py results:
-<img width="1046" height="509" alt="image" src="https://raw.githubusercontent.com/iam3/code-generation-strategies/refs/heads/main/v1_results.png" />
+<img width="1125" height="1183" alt="image" src="https://raw.githubusercontent.com/iam3/code-generation-strategies/refs/heads/main/v1_results.png" />
 
 
 codegenstrat_v2.py results:
-<img width="1046" height="509" alt="image" src="https://raw.githubusercontent.com/iam3/code-generation-strategies/refs/heads/main/v1_results.png" />
+<img width="953" height="951" alt="image" src="https://raw.githubusercontent.com/iam3/code-generation-strategies/refs/heads/main/v1_results.png" />
 
 
 code_gen_strat_v3.py <--- Work in progress

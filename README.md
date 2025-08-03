@@ -16,6 +16,6 @@ strategy_classifier3.ipynb better graph results:
 <img width="989" height="390" alt="image" src="https://raw.githubusercontent.com/iam3/code-generation-strategies/refs/heads/main/update2.png" />
 
 strategy_router_gradio.ipynb
-<img width="1796" height="447" alt="image" src="https://raw.githubusercontent.com/iam3/code-generation-strategies/refs/heads/main/update3.png" />
+<img width="1796" height="447" alt="image" src="https://raw.githubusercontent.com/iam3/code-generation-strategies/refs/heads/main/update3.PNG" />
 
 code_gen_strat_v3.py <--- Work in progress

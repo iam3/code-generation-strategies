@@ -19,3 +19,5 @@ strategy_router_gradio.ipynb
 <img width="1796" height="447" alt="image" src="https://raw.githubusercontent.com/iam3/code-generation-strategies/refs/heads/main/update3.PNG" />
 
 code_gen_strat_v3.py <--- Work in progress
+
+[![Watch the video](https://img.youtube.com/vi/Q1glRX8ZFCY/0.jpg)](https://youtu.be/Q1glRX8ZFCY)
